@@ -1,0 +1,15 @@
+
+body {
+  background-color: skyblue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: inset;
+  border-color: Purple;
+  border-width: 4px;
+  width: 95%;
+}
+H1 {
+  color: Green;
+}
